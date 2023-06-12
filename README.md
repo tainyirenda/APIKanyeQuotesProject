@@ -1,5 +1,5 @@
 # API Endpoints & API Parameters ISS Overhead Notifier
-<h1 align="center"> Password Manager </h1>
+<h1 align="center"> Kanye Quotes </h1>
 <h3 align="center">Hi 👋, I'm Tai</h3>
 
 <h4 align="left"> 🌱 Check out my Kanye Quotes project which uses API calls to generate a daily qoute. </h4>
